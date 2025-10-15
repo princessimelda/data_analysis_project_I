@@ -1,0 +1,41 @@
+VARIABLE NAME ,VARIABLE DESCRIPTION,VARIABLE SCALE
+Age(yrs),Age of the patient when survey was done.,
+PCOS(Y/N),Disease condition,0=No 1=Yes
+Weight (kgs), Weight of the patient when survey was done.,
+Height (cm), Height of the patient when the survey was done.,
+BMI, BMI of the patient when the survey was done.,
+Blood group,The blood group of the patient.,"Blood groups Indications: A+=11, A-=12, B+=13, B-=14, O+=15, O-=16, AB+=17, AB-=18"
+Pulse rate(bpm),Pulse of the patient when the survey was done.,
+RR(breaths/min),RR of the patient when the survey was done.,
+Hb(g/dl),Hb of the patient when the survey was done.,
+Cycle(R/I),Menstrual cycle of the patient.,"R= regular, I= irregular"
+Cycle length(days),Length of the menstrual cycle.,
+Marriage Status(Yrs),Whether the person is married.,
+Pregnant(Y/N),Whether the person is pregnant.,"Y= yes, N= no"
+No. of abortions,Number of abortions.,
+FSH(mIU/ml),Follicle-stimulating hormone levels of the patient,
+LH(mIU/ml),Leutinizing hormone levels of the patient.,
+FSH/LH,Ratio of FSH and LH,
+Hip(inch),Hip of the patient when the survey was done.,
+Waist(inch),Waist of the patient when the survey was done.,
+Waist:Hip Ratio,Ratio of Waist and Hip,
+TSH(mIU/ml),Testosterone-stimulating hormone levels of the patient,
+AMH(ng/ml),Anti-mullerian hormone levels in the patient,
+PRL(ng/ml),Prolactin levels of the patient,
+Vit D3(ng/ml),Vit-D3 levels of the patient,
+PRG(ng/ml),Progesterone levels of the patient,
+RBS(mg/dl),RBS of the patient when the survey was done.,
+Weight gain (Y/N),Weight gain of the patient.,"Y= yes, N= no"
+Hair growth(Y/N),Hair growth of the patient.,"Y= yes, N= no"
+Skin darkening(Y/N),Skin darkening of the patient.,"Y= yes, N= no"
+Hair Loss(Y/N),Hair Loss of the patient.,"Y= yes, N= no"
+Pimples(Y/N),Pimples of the patient.,"Y= yes, N= no"
+Fast food (Y/N),Fast food intake of the patient.,"Y= yes, N= no"
+Reg excercise(Y/N),Regular Exercise frequency of the patient.,"Y= yes, N= no"
+Bp systolic(mmHg),Bp systolic of the patient when the survey was done.,
+Bp diastolic(mmHg),Bp diastolic of the patient when the survey was done.,
+Follicle No.(L),Follicle Number (left) when the survey was done.,L= left
+Follicle No.(R),Follicle Number (right) when the survey was done.,R= right
+Avg. F size(L)(mm),Avg F size(left) of the patient when the survey was done.,L= left
+Avg. F size(R)(mm),Avg F size(right) of the patient when the survey was done.,R= right
+Endometrium(mm),Endometrium of the patient when the survey was done.,
